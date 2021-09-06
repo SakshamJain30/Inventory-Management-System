@@ -1,7 +1,8 @@
 # Inventory-Management-System
+#Created by **Saksham Jain** (Phone number-8584007001), **Sanjana Shah** (Phone Number - 8591667801) and **V Shashank** (Phone Number - 9874822689)
 This repository contains 4 files Purchase.py, Sales.py, records.json and sales.json
 This is an Inventory Management System 
-Created by **Saksham Jain** (Phone number-8584007001), **Sanjana Shah** (Phone Number - 8591667801) and **V Shashank** (Phone Number - 9874822689)
+
 The System consists has following functionalities:-
   **->** Adding new items to inventory
   **->** Adding exisisting items to inventory
